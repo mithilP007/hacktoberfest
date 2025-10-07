@@ -1,8 +1,8 @@
-#### Name: [Kishan Garhwal](https://github.com/Kishan8548)
+#### Name: [Mithil007](https://github.com/mithilP007)
 
-- Place: Lucknow, Uttar Pradesh, India
-- Bio: Android Developer | Fullstack Developer
-- GitHub: [Kishan8548](https://github.com/Kishan8548)
+- Place: Coimbatore, Tamil Nadu, India
+- Bio: Ml Developer | Ai Developer
+- GitHub: [Mithil007](https://github.com/mithilP007)
 
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
